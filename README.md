@@ -15,8 +15,6 @@ The goals / steps of this project are the following:
 
 ### Camera Calibration
 
-#### 1. Briefly state how you computed the camera matrix and distortion coefficients. Provide an example of a distortion corrected calibration image.
-
 Camera calibration was performed using multiple images of a chessboard pattern. 
 For each calibration image, chessboard corner points were detected and associated with their corresponding 3D object points, assuming the chessboard lies on a flat planar surface.
 Using these 2D–3D point correspondences, the camera matrix and lens distortion coefficients were computed using OpenCV calibration routines. 
