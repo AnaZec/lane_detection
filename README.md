@@ -93,6 +93,4 @@ More advanced approaches, such as learning-based lane detection methods, could f
 ### Other results
 
 All input images and videos are tested as well, final results are available at the following link:
-https://drive.google.com/drive/folders/11aOuGZ0RNHYJ0Iq9GIkYFdqFGOV2qBkE?q=sharedwith:public%20parent:11aOuGZ0RNHYJ0Iq9GIkYFdqFGOV2qBkE
-
-
+https://drive.google.com/file/d/19Dg-dA0cYWxRH6yDHZzJ2oJLJajfDf5L/view?usp=drive_link
