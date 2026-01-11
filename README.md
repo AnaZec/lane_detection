@@ -90,3 +90,9 @@ The pipeline is most likely to fail in situations with strong shadows, abrupt il
 To improve robustness, adaptive or illumination-aware thresholding techniques could be used.
 More advanced approaches, such as learning-based lane detection methods, could further improve performance in challenging road and lighting conditions.
 
+### Other results
+
+All input images and videos are tested as well, final results are available at the following link:
+https://drive.google.com/drive/folders/11aOuGZ0RNHYJ0Iq9GIkYFdqFGOV2qBkE?q=sharedwith:public%20parent:11aOuGZ0RNHYJ0Iq9GIkYFdqFGOV2qBkE
+
+
